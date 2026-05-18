@@ -1,6 +1,6 @@
 # CHANGELOG
 
-All notable changes to OASIS — Open Accepted Special Inspections for Shipping containers will be documented in this file.
+All notable changes to OASIS — Open Accessible Special Inspections for Shipping containers will be documented in this file.
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Version numbers follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
