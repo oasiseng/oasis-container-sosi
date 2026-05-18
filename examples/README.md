@@ -1,0 +1,1 @@
+# Examples\n\nThis folder is a placeholder for future redacted example SOSIs from real projects.\nAny example committed here must have all client / project / address / permit / PE-seal data removed.\n
