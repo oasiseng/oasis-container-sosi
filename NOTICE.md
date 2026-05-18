@@ -1,6 +1,6 @@
 # NOTICE
 
-This file documents the copyright, attribution, and trademark notices applicable to the OASIS — Open Accepted Special Inspections for Shipping containers project.
+This file documents the copyright, attribution, and trademark notices applicable to the OASIS — Open Accessible Special Inspections for Shipping containers project.
 
 ---
 
@@ -40,7 +40,7 @@ Place attribution in a discreet but visible location in your derived work — do
 
 ## Trademarks
 
-"OASIS" as used in this project is a backronym for *Open Accepted Special Inspections for Shipping containers* and is associated with this open-source project. No trademark registration is asserted at this time; the author reserves all rights with respect to use of the OASIS name that may cause confusion as to the source or sponsorship of a derived work.
+"OASIS" as used in this project is a backronym for *Open Accessible Special Inspections for Shipping containers* and is associated with this open-source project. No trademark registration is asserted at this time; the author reserves all rights with respect to use of the OASIS name that may cause confusion as to the source or sponsorship of a derived work.
 
 You may state that your derived work is *based on the OASIS template*. You may not represent that your derived work *is* OASIS, is endorsed by OASIS or Oasis Engineering, LLC, or that you are an authorized maintainer or contributor to OASIS unless those statements are true.
 
