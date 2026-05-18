@@ -1,6 +1,6 @@
 # OASIS
 
-**Open Accepted Special Inspections for Shipping containers**
+**Open Accessible Special Inspections for Shipping containers**
 
 A reference-quality, attorney-aware, FBC 2023 Chapter 17 compliant Statement of Special Inspections (SOSI) template for shipping container structural projects in Florida.
 
