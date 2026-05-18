@@ -23,7 +23,7 @@ Under CC BY 4.0 § 3(a), licensees must include attribution that:
 
 A compact attribution line acceptable under the license:
 
-> *Structure adapted from the OASIS reference SOSI for shipping container projects (github.com/[OWNER]/oasis-container-sosi), © Enrique Lairet, P.E. / Oasis Engineering, LLC, CC BY 4.0. Modified for project-specific use.*
+> *Structure adapted from the OASIS reference SOSI for shipping container projects (github.com/oasiseng/oasis-container-sosi), © Enrique Lairet, P.E. / Oasis Engineering, LLC, CC BY 4.0. Modified for project-specific use.*
 
 Place attribution in a discreet but visible location in your derived work — document footer, referenced-materials section, or transmittal cover sheet are all acceptable.
 
