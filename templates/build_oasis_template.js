@@ -1,4 +1,4 @@
-// OASIS — Open Accepted Special Inspections for Shipping containers
+// OASIS — Open Accessible Special Inspections for Shipping containers
 // Redacted reference template. Apply your own seal; you are the EOR.
 //
 // All "[PLACEHOLDER]" values must be filled in for any project use.
