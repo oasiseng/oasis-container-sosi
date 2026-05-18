@@ -18,7 +18,7 @@ Under CC BY 4.0 § 3(a), licensees must include attribution that:
 
 1. Identifies the original author (Enrique Lairet, P.E. / Oasis Engineering, LLC),
 2. Provides a link to the license (https://creativecommons.org/licenses/by/4.0/),
-3. Identifies the source (https://github.com/[OWNER]/oasis-container-sosi),
+3. Identifies the source (https://github.com/oasiseng/oasis-container-sosi),
 4. Indicates if changes were made.
 
 A compact attribution line acceptable under the license:
