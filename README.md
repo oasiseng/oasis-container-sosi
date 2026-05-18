@@ -60,7 +60,7 @@ oasis-container-sosi/
 
 When you use this template in a project deliverable, please include the following attribution line in a discreet location (most engineers put it in the document footer or in the "Referenced Materials" section):
 
-> *Structure adapted from the OASIS reference SOSI for shipping container projects (github.com/[OWNER]/oasis-container-sosi), CC BY 4.0.*
+> *Structure adapted from the OASIS reference SOSI for shipping container projects (github.com/oasiseng/oasis-container-sosi), CC BY 4.0.*
 
 That's it. No royalty, no commercial license fee, no permission required. Use it, fork it, build on it. Attribution helps other engineers find the project and contributes to a stronger reference for the whole industry.
 
