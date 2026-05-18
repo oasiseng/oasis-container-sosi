@@ -113,4 +113,4 @@ Under the following terms:
 
 ## Author
 
-Initial template authored by **Enrique Lairet, P.E.** (Florida P.E. No. 86574), Oasis Engineering, LLC. Released as OASIS under CC BY 4.0 in 2026.
+Initial template authored by **Enrique Lairet, P.E.**, Oasis Engineering, LLC. Released as OASIS under CC BY 4.0 in 2026.
